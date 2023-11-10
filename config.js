@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285730903853', '6282221792667','6285730903853', '6282221792667', '6282135905896'] // Letakan nomor kamu disini
+global.owner = ['6282235335847', '6283131516130','6287716424010'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -37,7 +37,7 @@ global.APIKeys = { // APIKey nya disini
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
   'http://zekais-api.herokuapp.com': 'grqgD6pU',
-  'https://bx-hunter.herokuapp.com': 'Ikyy69',
+  'https://bx-hunter.herokuapp.com': 'Fadly69',
 }
 
 // Sticker WM
